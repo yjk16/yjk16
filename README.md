@@ -19,7 +19,7 @@
 *a project to create a responsive website by utilising Bootstrap.*
 
 ##### 3. Project Ideas
-*include an OOP based system to register and organise volunteers for charity organisations and social justice movements. I am always happy to collaborate!*
+*include creating a system to register and organise volunteers for charity organisations and social justice movements. I am always happy to collaborate!*
 
 ##### 4. Reach Me
 *via [LinkedIn](https://www.linkedin.com/in/yoon-ji-kim-770360258/)*
